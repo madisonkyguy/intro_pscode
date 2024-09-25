@@ -2,3 +2,14 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+ computer enters Number between 1 and 10
+  player enters number between 1 and 10
+       If Computer and player enter the same number
+        Then "Player wins Game"
+       Else "Player enters number between 1 and 10"
+       If Computer and Player enter the same number
+        Then "Player wins Game"
+       Else "Player enters number between 1 and 10"
+       If computer and Player enter the same number
+         Then "Player wins Game"
+         Else "Player loses Game"
