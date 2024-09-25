@@ -2,3 +2,15 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Customer receives set location
+Customer walks West 
+Customer reaches Location
+Customer doesn't reach location
+Customer walks East
+Customer reaches location
+Customer doesn't reaches location
+Customer walks South
+Customer reaches location
+Customer doesn't reach location
+Customer walks North
+Customer reaches location
