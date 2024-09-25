@@ -2,3 +2,19 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Task: Develop a mapping (walking) application to find a specific set location in a large warehouse store for a customer. The customer can move north, south, east, or west.
+
+Hints: Loops, Variables
+
+Customer receives set location
+Customer walks West 
+Customer reaches Location
+Customer doesn't reach location
+Customer walks East
+Customer reaches location
+Customer doesn't reaches location
+Customer walks South
+Customer reaches location
+Customer doesn't reach location
+Customer walks North
+Customer reaches location
