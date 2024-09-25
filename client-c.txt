@@ -2,3 +2,33 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Task: You need to develop a program that counts the number of items that a hardware device scans to sort for boxing packages into cases. Each package scanned is two (2) products. Each case can only fit 50 product packages. Write a program that prints numbers from 2 to 50, counting by twos.
+
+Hint: Loops
+
+Hardware Device prints numbers (1,2)
+Hardware Device Prints numbers (3,4)
+Hardware Device Prints numbers (5,6)
+Hardware Device Prints Numbers (7,8)
+Hardware Device Prints numbers (9,10)
+Hardware Device Prints numbers (11,12)
+Hardware Device prints numbers (13,14)
+Hardware Device prints numbers (15,16)
+Hardware Device prints numbers (17,18)
+Hardware Device prints numbers (19,20)
+Hardware Device prints numbers (21,22)
+Hardware Device prints numbers (23,24)
+Hardware Device prints numbers (25,26)
+Hardware Device prints numbers (27,28)
+Hardware Device prints numbers (29,30)
+Hardware Device prints numbers (31,32)
+Hardware Device prints numbers (33,34)
+Hardware Device prints numbers (35,36)
+Hardware Device prints numbers (37,38)
+Hardware Device prints numbers (39,40)
+Hardware Device prints numbers (41,42) 
+Hardware Device prints numbers (43,44)
+Hardware Device prints numbers (45,46)
+Hardware Device prints numbers (47,48)
+Hardware Device prints numbers (49,50)
+Once Device prints 50 job is complete
